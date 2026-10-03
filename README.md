@@ -6,6 +6,8 @@ KisanSetu is a farmer-focused Android application designed to help farmers make 
 
 Instead of simply showing the highest mandi price, KisanSetu considers multiple practical factors such as crop quantity, market price, road distance, transportation cost, and other applicable costs to estimate the potential return and help the farmer identify a suitable market.
 
+*IMP: use PHONE NO.: 8791345325
+     and otp : 123456
 ---
 
 ## 📌 Table of Contents
